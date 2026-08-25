@@ -1,5 +1,5 @@
-Writing
-Loan Approval Prediction with MLflow
+
+Loan Approval Prediction with MLflow:
 
 This project uses a Random Forest Classifier to predict loan approval and MLflow to track the machine learning experiment.
 
